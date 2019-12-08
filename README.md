@@ -1,5 +1,5 @@
 Modern HTML CSS, Packtpub video
-12/4/2019, Wed
+12/8/2019, Sun
 Hotel
 
 File Structure & Navbar
