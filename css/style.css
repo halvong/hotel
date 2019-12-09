@@ -74,7 +74,6 @@ p {
   background: #f7c08a;
   color: #333;
 }
-/*
 
 .clr {
   clear: both;
@@ -83,7 +82,6 @@ p {
 .l-heading {
   font-size: 40px;
 }
- */
 
 /* Padding */
 .py-1 { padding: 10px 0; }
@@ -174,18 +172,17 @@ p {
 }
 
 /* Features */
-/*
 .box {
   float: left;
   width: 33.3%;
   padding: 50px;
   text-align:center;
+  border: 1px solid RED;
 }
 
 .box i {
   margin-bottom: 10px;
 }
- */
 
 /* About Info */
 /*
@@ -267,12 +264,9 @@ p {
 }
  */
 
-/* Footer */
-/*
 #main-footer {
   text-align: center;
   background: #444;
   color: #fff;
   padding: 20px;
 }
- */
