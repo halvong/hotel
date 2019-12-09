@@ -30,7 +30,7 @@ p {
   margin: auto;
   max-width: 1100px;
   overflow: auto;
-  padding: 0 20px;
+  padding: 0 20px; /*0: top/bottom, 20px:left/right*/
 }
 
 .text-primary {
@@ -50,7 +50,6 @@ p {
   border: none;
   cursor: pointer;
 }
-
 .btn:hover {
   background: #f7c08a;
   color: #333;
@@ -157,7 +156,7 @@ p {
   float: left;
   width: 50%;
   background: url('../img/photo-1.jpg') no-repeat;
-  min-height: 100%;
+  min-height: 100%;/* take up the whole space in the dev */
 }
 
 #home-info .info-content {
@@ -168,7 +167,6 @@ p {
   padding: 50px 30px;
   overflow: hidden;
 }
-
 #home-info .info-content p {
   padding-bottom: 30px;
 }
@@ -179,6 +177,7 @@ p {
   width: 33.3%;
   padding: 50px;
   text-align:center;
+  border: 1px solid RED;
 }
 
 .box i {
@@ -186,6 +185,7 @@ p {
 }
 
 /* About Info */
+/*
 #about-info .info-right {
   float: right;
   width: 50%;
@@ -204,8 +204,10 @@ p {
   width: 50%;
   min-height: 100%;
 }
+ */
 
 /* Testimonials */
+/*
 #testimonials {
   height: 600px;
   background: url('../img/test-bg.jpg') no-repeat center center/cover;
@@ -231,8 +233,10 @@ p {
   margin-right: 20px;
   border-radius: 50%;
 }
+ */
 
 /* Contact Form */
+/*
 #contact-form .form-group {
   margin-bottom: 20px;
 }
@@ -258,8 +262,8 @@ p {
   outline: none;
   border-color: #f7c08a;
 }
+ */
 
-/* Footer */
 #main-footer {
   text-align: center;
   background: #444;

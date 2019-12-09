@@ -2,8 +2,7 @@ Modern HTML CSS, Packtpub video
 12/8/2019, Sun
 Hotel
 
-File Structure & Navbar
-13:38
+footer done
 
 **start server**
 browser-sync start --server --files "*.html, css/*.css"
