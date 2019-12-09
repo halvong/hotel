@@ -1,8 +1,7 @@
-Modern HTML CSS, Packtpub video
-12/8/2019, Sun
-Hotel
+Hotel Modern HTML CSS, Packtpub video
+12/9/2019, Monday
 
-footer done
+about
 
 **start server**
 browser-sync start --server --files "*.html, css/*.css"
