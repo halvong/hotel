@@ -1,7 +1,7 @@
 Hotel Modern HTML CSS, Packtpub video
 12/9/2019, Monday
 
-about
+contact
 
 **start server**
 browser-sync start --server --files "*.html, css/*.css"
