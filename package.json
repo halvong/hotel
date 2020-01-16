@@ -1,0 +1,23 @@
+{
+  "name": "hotel",
+  "version": "1.0.0",
+  "description": "CSS stylesheet app",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/halvong/hotel.git"
+  },
+  "author": "halvong@yahoo.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/halvong/hotel/issues"
+  },
+  "homepage": "https://github.com/halvong/hotel#readme",
+  "devDependencies": {
+    "browser-sync": "^2.26.7",
+    "gulp": "^4.0.2"
+  }
+}

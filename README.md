@@ -1,10 +1,11 @@
-Modern HTML CSS, Packtpub video
-12/8/2019, Sun
-Hotel
+Hotel Modern HTML CSS, Packtpub video
+01/15/2020, Wed
 
-footer done
+Finished
 
-**start server**
+#start server
+gulp start
 browser-sync start --server --files "*.html, css/*.css"
 
+#url
 https://subscription.packtpub.com/video/web_development/9781838822828/113216/113219/file-structure-and-navbar
