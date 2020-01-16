@@ -1,7 +1,7 @@
 Hotel Modern HTML CSS, Packtpub video
 01/15/2020, Wed
 
-contact
+Finished
 
 #start server
 gulp start
