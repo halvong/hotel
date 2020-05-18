@@ -1,11 +1,12 @@
-Hotel Modern HTML CSS, Packtpub video
-01/15/2020, Wed
+Hotel Modern HTML CSS, Packtpub video, Brad Traversy
+05/17/2020, Sun
 
-Finished
+Responsive Layouts
 
 #start server
 gulp start
+    or
 browser-sync start --server --files "*.html, css/*.css"
 
 #url
-https://subscription.packtpub.com/video/web_development/9781838822828/113216/113219/file-structure-and-navbar
+https://subscription.packtpub.com/video/web_development/9781838822828/113224/113225/what-is-responsive-design
